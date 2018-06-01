@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>영상제작과</item>
+        <item>안드로이드</item>
+        <item>전자공학과</item>
+        <item>백엔드</item>
+        <item>프론트엔드</item>
+
+    </string-array>
+</resources>
